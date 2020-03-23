@@ -1,0 +1,5 @@
+r=input('Dairenin YarýÇapýný Giriniz:');
+CemberCevresi=2*pi*r;
+DaireAlani=pi*(r^2);
+fprintf('Çemberin Çevresi=%g \n',CemberCevresi);
+disp(['Dairenin Alaný=' num2str(DaireAlani)]);
